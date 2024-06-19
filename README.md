@@ -1,6 +1,9 @@
 # Prefix Words Finder in Go
 A small, somewhat interactive app with no Javascript and 100% backend HTML generation
 
+## Hosted App
+https://wordplay.khoister.io/
+
 ## Stack
 * Go
 * GoFiber
